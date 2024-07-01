@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\aluno-mvc-sql.props" />
+</Project>

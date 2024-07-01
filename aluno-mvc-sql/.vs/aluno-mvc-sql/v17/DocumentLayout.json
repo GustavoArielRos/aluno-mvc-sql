@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Guga_Pc\\Desktop\\aluno-mvc-sql\\aluno-mvc-sql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{574C3F12-AC34-4520-AE52-CFA8FA4EED17}|aluno-mvc-sql\\aluno-mvc-sql.csproj|c:\\users\\guga_pc\\desktop\\aluno-mvc-sql\\aluno-mvc-sql\\aluno-mvc-sql\\views\\aluno\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{574C3F12-AC34-4520-AE52-CFA8FA4EED17}|aluno-mvc-sql\\aluno-mvc-sql.csproj|solutionrelative:aluno-mvc-sql\\views\\aluno\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574C3F12-AC34-4520-AE52-CFA8FA4EED17}|aluno-mvc-sql\\aluno-mvc-sql.csproj|c:\\users\\guga_pc\\desktop\\aluno-mvc-sql\\aluno-mvc-sql\\aluno-mvc-sql\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574C3F12-AC34-4520-AE52-CFA8FA4EED17}|aluno-mvc-sql\\aluno-mvc-sql.csproj|solutionrelative:aluno-mvc-sql\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574C3F12-AC34-4520-AE52-CFA8FA4EED17}|aluno-mvc-sql\\aluno-mvc-sql.csproj|c:\\users\\guga_pc\\desktop\\aluno-mvc-sql\\aluno-mvc-sql\\aluno-mvc-sql\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574C3F12-AC34-4520-AE52-CFA8FA4EED17}|aluno-mvc-sql\\aluno-mvc-sql.csproj|solutionrelative:aluno-mvc-sql\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574C3F12-AC34-4520-AE52-CFA8FA4EED17}|aluno-mvc-sql\\aluno-mvc-sql.csproj|c:\\users\\guga_pc\\desktop\\aluno-mvc-sql\\aluno-mvc-sql\\aluno-mvc-sql\\views\\aluno\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{574C3F12-AC34-4520-AE52-CFA8FA4EED17}|aluno-mvc-sql\\aluno-mvc-sql.csproj|solutionrelative:aluno-mvc-sql\\views\\aluno\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574C3F12-AC34-4520-AE52-CFA8FA4EED17}|aluno-mvc-sql\\aluno-mvc-sql.csproj|c:\\users\\guga_pc\\desktop\\aluno-mvc-sql\\aluno-mvc-sql\\aluno-mvc-sql\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{574C3F12-AC34-4520-AE52-CFA8FA4EED17}|aluno-mvc-sql\\aluno-mvc-sql.csproj|solutionrelative:aluno-mvc-sql\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574C3F12-AC34-4520-AE52-CFA8FA4EED17}|aluno-mvc-sql\\aluno-mvc-sql.csproj|c:\\users\\guga_pc\\desktop\\aluno-mvc-sql\\aluno-mvc-sql\\aluno-mvc-sql\\models\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574C3F12-AC34-4520-AE52-CFA8FA4EED17}|aluno-mvc-sql\\aluno-mvc-sql.csproj|solutionrelative:aluno-mvc-sql\\models\\alunodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\aluno-mvc-sql\\aluno-mvc-sql\\aluno-mvc-sql\\Views\\Aluno\\Editar.cshtml",
+              "RelativeDocumentMoniker": "aluno-mvc-sql\\Views\\Aluno\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\aluno-mvc-sql\\aluno-mvc-sql\\aluno-mvc-sql\\Views\\Aluno\\Editar.cshtml",
+              "RelativeToolTip": "aluno-mvc-sql\\Views\\Aluno\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T20:49:46.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\aluno-mvc-sql\\aluno-mvc-sql\\aluno-mvc-sql\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "aluno-mvc-sql\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\aluno-mvc-sql\\aluno-mvc-sql\\aluno-mvc-sql\\Models\\Aluno.cs",
+              "RelativeToolTip": "aluno-mvc-sql\\Models\\Aluno.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:16:32.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\aluno-mvc-sql\\aluno-mvc-sql\\aluno-mvc-sql\\Views\\Aluno\\Criar.cshtml",
+              "RelativeDocumentMoniker": "aluno-mvc-sql\\Views\\Aluno\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\aluno-mvc-sql\\aluno-mvc-sql\\aluno-mvc-sql\\Views\\Aluno\\Criar.cshtml",
+              "RelativeToolTip": "aluno-mvc-sql\\Views\\Aluno\\Criar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T18:53:52.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\aluno-mvc-sql\\aluno-mvc-sql\\aluno-mvc-sql\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "aluno-mvc-sql\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\aluno-mvc-sql\\aluno-mvc-sql\\aluno-mvc-sql\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "aluno-mvc-sql\\Controllers\\AlunoController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T18:49:39.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\aluno-mvc-sql\\aluno-mvc-sql\\aluno-mvc-sql\\Views\\Aluno\\Index.cshtml",
+              "RelativeDocumentMoniker": "aluno-mvc-sql\\Views\\Aluno\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\aluno-mvc-sql\\aluno-mvc-sql\\aluno-mvc-sql\\Views\\Aluno\\Index.cshtml",
+              "RelativeToolTip": "aluno-mvc-sql\\Views\\Aluno\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T18:53:13.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlunoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Guga_Pc\\Desktop\\aluno-mvc-sql\\aluno-mvc-sql\\aluno-mvc-sql\\Models\\AlunoDto.cs",
+              "RelativeDocumentMoniker": "aluno-mvc-sql\\Models\\AlunoDto.cs",
+              "ToolTip": "C:\\Users\\Guga_Pc\\Desktop\\aluno-mvc-sql\\aluno-mvc-sql\\aluno-mvc-sql\\Models\\AlunoDto.cs",
+              "RelativeToolTip": "aluno-mvc-sql\\Models\\AlunoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T18:36:29.712Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
